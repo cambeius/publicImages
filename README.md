@@ -15,6 +15,7 @@
 | sjohnson | Steve Johnson | https://artbystevej.com | Unsplash License |
 | ssinclair | Sean Sinclair | https://unsplash.com/@seanwsinclair | Unsplash License |
 | theftiba | Toa Heftiba | http://www.heftiba.co.uk | Unsplash License |
+
 # Xmas Bokeh
 ![alt text](Media/jvasek_xmas_bokeh.jpg)
 # Confetti
